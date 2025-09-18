@@ -1,4 +1,4 @@
-# Acerca de mi  PENDIENTE
+# Acerca de mi
 
 Soy estudiante de la FP de Desarrollo de Aplicaciones Multiplataforma y del Máster de Desarrollo Web Fullstack y estoy construyendo mi camino en el mundo del código, combinando diseño y funcionalidad para crear interfaces limpias, accesibles y con diseño cuidado. Me gusta prestar atención a los detalles y aprender tecnologías que me permitan llevar mis ideas a la web de forma ordenada y coherente.
 
@@ -6,3 +6,4 @@ Diseño primero en Figma y luego paso al código, trabajando con HTML, CSS, algo
 
 
 🔗 [[https://portfolio-de-agustin.vercel.app](https://portfolio-de-agustin.vercel.app)
+
