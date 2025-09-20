@@ -5,5 +5,6 @@ Soy estudiante de la FP de Desarrollo de Aplicaciones Multiplataforma y del Más
 Diseño primero en Figma y luego paso al código, trabajando con HTML, CSS, algo de JavaScript y muchas ganas de mejorar. Este portfolio es tanto una carta de presentación como un espacio donde experimento, aprendo y poco a poco voy puliendo mi estilo como desarrollador.
 
 
-🔗 [[https://portfolio-de-agustin.vercel.app](https://portfolio-de-agustin.vercel.app)
+🔗 [(https://portfolio-agustin-rho.vercel.app)]((https://portfolio-agustin-rho.vercel.app))
+
 
